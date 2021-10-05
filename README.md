@@ -11,4 +11,4 @@ An Angular application for managing and tracking issues using reactive forms and
 
 ![alt list of issues](https://github.com/bakigervalla/issue-tracker-angular/blob/master/issue-tracker/issue-list.png?raw=true)
 
-[Demo](https://node-zwpiml--4200.local.webcontainer.io/)
+[Demo](https://node-zwpiml.stackblitz.io)
