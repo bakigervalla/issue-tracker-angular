@@ -7,7 +7,7 @@ An Angular application for managing and tracking issues using reactive forms and
 * Resolve a selected issue directly within the grid list of issues
 * Suggesting related issues when reporting a new one
 
-![alt add issue](https://github.com/bakigervalla/issue-tracker-angular/blob/master/src/add-issue.png?raw=true)
+![alt add issue](https://github.com/bakigervalla/issue-tracker-angular/src/add-issue.png?raw=true)
 
 ![alt list of issues](https://github.com/bakigervalla/issue-tracker-angular/blob/master/src/issue-list.png?raw=true)
 
