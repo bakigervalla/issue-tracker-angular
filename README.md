@@ -7,5 +7,6 @@ An Angular application for managing and tracking issues using reactive forms and
 * Resolve a selected issue directly within the grid list of issues
 * Suggesting related issues when reporting a new one
 
+![alt add issue](https://github.com/[bakigervalla]/issue-tracker-angular/blob/master/src/add-issue.jpg?raw=true)
 
 [Demo](https://pages.github.com/ticketly)
