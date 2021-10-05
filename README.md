@@ -8,4 +8,4 @@ An Angular application for managing and tracking issues using reactive forms and
 * Suggesting related issues when reporting a new one
 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-zwpiml)
+[Demo](https://pages.github.com/ticketly)
