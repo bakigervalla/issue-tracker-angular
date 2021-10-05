@@ -1,4 +1,4 @@
-# TICKETLY (ISSUE-TRACKER)
+# ISSUE-TRACKER
 
 An Angular application for managing and tracking issues using reactive forms and Clarity Design System.
 * Data grid component to display a list of pending issues. 
@@ -11,4 +11,4 @@ An Angular application for managing and tracking issues using reactive forms and
 
 ![alt list of issues](https://github.com/bakigervalla/issue-tracker-angular/blob/master/issue-tracker/issue-list.png?raw=true)
 
-[Demo](https://pages.github.com/ticketly)
+[Demo](https://node-zwpiml--4200.local.webcontainer.io/)
